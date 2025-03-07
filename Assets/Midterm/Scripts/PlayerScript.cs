@@ -70,7 +70,7 @@ public class PlayerScript : MonoBehaviour
     //This gets called whenever you bump into another object, like a wall or coin.
     private void OnCollisionEnter2D(Collision2D other)
     {
-        if (Score >= 7)
+        if (Score >= 6)
         {
             SceneManager.LoadScene("Player 1 Wins");
         }
