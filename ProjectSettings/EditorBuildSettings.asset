@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Midterm/Game Over.unity
+    guid: 4d46cbe08e8b91747a81e2876bad7ea5
+  - enabled: 1
+    path: Assets/Midterm/MidtermTemplate.unity
+    guid: 2f76be615e935a6408c25961dab65588
+  - enabled: 1
+    path: Assets/Midterm/Player 1 Wins.unity
+    guid: d3604817595a09f489f3224e828517cd
+  - enabled: 1
+    path: Assets/Midterm/Player 2 Wins.unity
+    guid: 7f4da175cba037549ab842979010b0b6
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
